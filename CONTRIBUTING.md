@@ -52,9 +52,7 @@ please adhere to the following guidelines to ensure consistency and maintainabil
 
 ### Basic Check Functions
 
-- **Limitations on Modifications**: CHANGE ME
-
-- **Restrictions**: CHANGE ME
+- **Limitations on Modifications**: Be careful to not change to many files
 
 ### Documentation and Credit
 
@@ -74,11 +72,7 @@ please adhere to the following guidelines to ensure consistency and maintainabil
 
 ### Dependencies
 
-- **Requirement File**: CHANGE ME
-
-### Must Do's
-
-- **Final Steps**: CHANGE ME
+- **Requirement File**: If you add any requirements, include them in the `requirements.txt` file
   
 ## Issues and labels 🛠️
 

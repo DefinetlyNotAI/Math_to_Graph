@@ -44,24 +44,19 @@ Ensure your system meets these requirements:
 
 ### Basic Usage
 
-CHANGE_ME
 
-## 🔧 Configuration 🔧
+```python
+from Graphify import Grapher
 
-CHANGE_ME
+# Example usage
+grapher = Grapher()
+grapher.generate_plot("FORMULA", "START_VALUE", "END_VALUE")
+```
 
-## 🚀 Advanced Usage 🚀
+Formula must include (x) and nothing else in it, like `x + 5`.
 
-CHANGE_ME
+Formula can support any function from the default python module, as well as cos, tan, sin and log.
+Prioritizes BODMAS where brackets come first, etc
 
-## 🛑 Troubleshooting 🛑
+Super basic tool, no fancy usage, but it's all you need to get started.
 
-CHANGE_ME
-
-### Support Resources
-
-CHANGE_ME
-
-## 🌟 Conclusion 🌟
-
-CHANGE_ME

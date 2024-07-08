@@ -6,7 +6,7 @@ This section outlines the versions of our project that are currently supported w
 
 | Version | Supported |
 |---------|-----------|
-| 1.0.x   | ✅        |
+| beta    | ✅        |
 
 ## Reporting a Vulnerability
 
